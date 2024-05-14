@@ -1,5 +1,6 @@
 {
     "name": "salih0vicx/laravel",
+    "version": "1.2.5",
     "description": "Reliese Components for Laravel Framework code generation.",
     "keywords": ["reliese", "laravel"],
     "homepage": "http://cristianllanos.com",
